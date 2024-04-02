@@ -6,9 +6,9 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Mouse Wiggler")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Keeps the computer awake")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("REDHEADIT")]
 [assembly: AssemblyProduct("Mouse Wiggler")]
 [assembly: AssemblyCopyright("Copyright ©  2024")]
 [assembly: AssemblyTrademark("")]

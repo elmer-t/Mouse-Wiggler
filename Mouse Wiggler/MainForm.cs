@@ -10,12 +10,12 @@ using System.Windows.Forms;
 
 namespace Mouse_Wiggler
 {
-	public partial class Form1 : Form
+	public partial class MainForm : Form
 	{
 		private static Timer timer;
 		private static bool isRunning = false;
 
-		public Form1()
+		public MainForm()
 		{
 			InitializeComponent();
 
